@@ -288,7 +288,7 @@ public final class Vista extends javax.swing.JFrame {
             }
         });
 
-        actualizarBoton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/serialpc/actualizar-pagina-opcion.png"))); // NOI18N
+        actualizarBoton.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Imagenes/actualizar-pagina-opcion.png")));
         actualizarBoton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 actualizarBotonActionPerformed(evt);

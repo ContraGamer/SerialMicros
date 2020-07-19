@@ -357,8 +357,8 @@
     </Component>
     <Component class="javax.swing.JButton" name="actualizarBoton">
       <Properties>
-        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/serialpc/actualizar-pagina-opcion.png"/>
+        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.RADConnectionPropertyEditor">
+          <Connection code="new javax.swing.ImageIcon(getClass().getResource(&quot;/Imagenes/actualizar-pagina-opcion.png&quot;))" type="code"/>
         </Property>
       </Properties>
       <Events>
